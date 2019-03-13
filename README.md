@@ -1,4 +1,4 @@
 # HelloWorld
-### Student ID
-### Student Name
-### Email address
+### 201850269 
+### 손동철
+### weltgeist@naver.com
