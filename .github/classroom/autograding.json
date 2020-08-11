@@ -3,9 +3,9 @@
     {
       "name": "1",
       "setup": "",
-      "run": "1",
-      "input": "1",
-      "output": "HelloWorld",
+      "run": "python HelloWorld.py",
+      "input": "",
+      "output": "Hello World",
       "comparison": "included",
       "timeout": 10,
       "points": 10
